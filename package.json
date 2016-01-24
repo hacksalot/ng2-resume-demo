@@ -1,0 +1,13 @@
+{
+  "name": "angular2-es6-seed",
+  "version": "0.0.0",
+  "description": "Seed project for Angular 2 ES6 apps",
+  "repository": {
+    "url": "https://github.com/evanplaice/angular2-es6-seed"
+  },
+  "scripts": {},
+  "author": "Evan Plaice <evanplaice>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
