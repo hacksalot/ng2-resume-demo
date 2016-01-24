@@ -14,6 +14,7 @@ System.config({
 
   map: {
     "angular2": "npm:angular2@2.0.0-beta.0",
+    "reflect-metadata": "npm:reflect-metadata@0.1.3",
     "traceur": "github:jmcriffey/bower-traceur@0.0.92",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92",
     "github:jspm/nodelibs-assert@0.1.0": {
@@ -54,7 +55,7 @@ System.config({
       "es6-promise": "npm:es6-promise@3.0.2",
       "es6-shim": "npm:es6-shim@0.33.13",
       "process": "github:jspm/nodelibs-process@0.1.2",
-      "reflect-metadata": "npm:reflect-metadata@0.1.2",
+      "reflect-metadata": "npm:reflect-metadata@0.1.3",
       "rxjs": "npm:rxjs@5.0.0-beta.0",
       "zone.js": "npm:zone.js@0.5.10"
     },
@@ -260,7 +261,7 @@ System.config({
       "stream-browserify": "npm:stream-browserify@1.0.0",
       "string_decoder": "npm:string_decoder@0.10.31"
     },
-    "npm:reflect-metadata@0.1.2": {
+    "npm:reflect-metadata@0.1.3": {
       "assert": "github:jspm/nodelibs-assert@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.2"
     },
