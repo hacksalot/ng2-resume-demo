@@ -6,13 +6,16 @@
     "url": "https://github.com/evanplaice/angular2-es6-seed"
   },
   "scripts": {
-    "start": "live-server"
+    "start": "live-server",
+    "style": "semistandard || true"
   },
   "author": "Evan Plaice <evanplaice>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "live-server": "^0.9.1"
+    "babel-eslint": "^4.1.6",
+    "live-server": "^0.9.1",
+    "semistandard": "^7.0.5"
   },
   "jspm": {
     "dependencies": {
@@ -25,5 +28,11 @@
       "traceur": "github:jmcriffey/bower-traceur@0.0.92",
       "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.92"
     }
+  },
+  "semistandard": {
+    "parser": "babel-eslint",
+    "ignore": [
+      "config.js"
+    ]
   }
 }
