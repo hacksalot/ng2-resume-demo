@@ -14,6 +14,7 @@ System.config({
 
   map: {
     "angular2": "npm:angular2@2.0.0-beta.0",
+    "css": "github:systemjs/plugin-css@0.1.20",
     "reflect-metadata": "npm:reflect-metadata@0.1.3",
     "rxjs": "npm:rxjs@5.0.0-beta.1",
     "traceur": "github:jmcriffey/bower-traceur@0.0.92",
