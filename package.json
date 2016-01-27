@@ -1,9 +1,9 @@
 {
-  "name": "angular2-es6-seed",
-  "version": "0.0.0",
-  "description": "Seed project for Angular 2 ES6 apps",
+  "name": "ng2-resume-demo",
+  "version": "1.0.0",
+  "description": "Demo for the <ng2-resume> component",
   "repository": {
-    "url": "https://github.com/evanplaice/angular2-es6-seed"
+    "url": "https://github.com/evanplaice/ng2-resume-demo"
   },
   "scripts": {
     "start": "live-server",
