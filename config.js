@@ -16,6 +16,7 @@ System.config({
     "angular2": "npm:angular2@2.0.0-beta.0",
     "clean-css": "npm:clean-css@3.4.9",
     "css": "github:systemjs/plugin-css@0.1.20",
+    "fluentdesk/jane-q-fullstacker": "github:fluentdesk/jane-q-fullstacker@0.4.0",
     "font-awesome": "npm:font-awesome@4.5.0",
     "reflect-metadata": "npm:reflect-metadata@0.1.3",
     "rxjs": "npm:rxjs@5.0.0-beta.1",
